@@ -168,7 +168,7 @@ After a lot of clean-up and transformation efforts, I was able to produce quite 
 
 Predictions will happen in real time when the system decides what ads to show to users. Thus, simpler models, such as Logistic Regression, could be advantageous. Simpler models will allow for quick calculation of the click probability with minimal latency.
 
-# Things I did NOT do (but should have done / should have done better):
+# Things I am planning to do next:
 
 1. **Check for duplicate records**
 
