@@ -2,6 +2,7 @@
 
 **Dmitri Kazanski**
 
+**Please see the Technical Writeup Notebook (Book 0) for additional technical details and the summary of model performance results.**
 
 ## Project Overview and Goals
 
@@ -47,3 +48,8 @@ I created  7 types of Classifier models and optimized Hyperparameters for each m
 XGBoost, a gradient-boosting ensemble model, produced the best (lowest) LogLoss of 0.066096. It had an overall accuracy of 0.9782, which means that it correctly predicted whether an ad impression would result in a click or not 97.8% of the time. For an advertising model, that is an astonishingly good result.
 
 **Please see the Technical Writeup Notebook (Book 0) for additional technical details and the summary of model performance results.**
+
+
+```python
+
+```
